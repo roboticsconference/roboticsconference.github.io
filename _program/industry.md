@@ -22,20 +22,22 @@ Participating companies:
 - [Amazon Robotics](https://www.amazonrobotics.com/)
 - [Ascend Robotics](http://ascendrobotics.com/)
 - [Ava Robotics](https://www.avarobotics.com/)
+- [Boston Dynamics](https://www.bostondynamics.com/)
 - [CyPhy Works](https://www.cyphyworks.com/)
 - [Endeavor Robotics](http://endeavorrobotics.com/)
 - [Franklin Robotics](http://www.franklinrobotics.com/)
 - [Humatics](http://site.humatics.com/)
 - [iRobot](http://www.irobot.com/)
 - [Locus Robotics](http://www.locusrobotics.com/)
+- [MathWorks](https://www.mathworks.com/)
 - [Myomo](http://myomo.com/)
 - [nuTonomy](http://nutonomy.com/)
 - [NVIDIA](http://www.nvidia.com/)
+- [Optimus Ride](http://optimusride.com/)
 - [ReWalk](http://rewalk.com/)
 - [RightHand Robotics](https://www.righthandrobotics.com/)
 - [Soft Robotics Inc.](https://www.softroboticsinc.com/)
 - [Vecna](https://www.vecna.com/)
-- [Optimus Ride](http://optimusride.com/)
 
 {% comment %}
 <a href="https://www.amazonrobotics.com/">
